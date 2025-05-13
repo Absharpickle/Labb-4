@@ -1,0 +1,8 @@
+- Ska man sätta AREF till 5V?
+	Använd AVCC som ref
+- Behöver man initiera 10-bitars A/D-omvandling?
+	Ja
+- Vad är r0 (WARM)?
+	vilka som helst
+- Måste TPOSX vara mellan 2..6 (RANDOM)?
+	Ja
